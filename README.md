@@ -26,6 +26,8 @@ The Weather App is a web application that allows users to get weather informatio
 - React Select
 - Country Flag Emoji JSON
 - Cities.json
+- express
+- mongoose
 
 ## Setup
 
@@ -37,16 +39,32 @@ The Weather App is a web application that allows users to get weather informatio
 
    
 ## Install dependencies:
-
-
+1. **Install dependencies on client **
+- cd client
 - npm install
 - Run the application:
 
 - npm start
 - The app will be available at http://localhost:3000.
 
+2. **Install dependencies on server **
+- cd server
+- npm install
+- Run the application:
+
+- npm start
+- The app will be available at http://localhost:5000.
+
 ## Configuration
--Update API keys and other configuration settings in the appropriate files.
+
+1. **Environment Variables:**
+
+   Create a `.env` file in the root of the project with the following content:
+
+   ```dotenv
+   PORT=5000
+   ATLAS_URI=your_mongodb_atlas_uri
+   API_KEY=your_weather_api_key
 
 
 ## Usage
@@ -66,16 +84,7 @@ User Authentication:
 
 Optionally log in or sign up to access personalized features.
 
-## Configuration
 
-1. **Environment Variables:**
-
-   Create a `.env` file in the root of the project with the following content:
-
-   ```dotenv
-   PORT=5000
-   ATLAS_URI=your_mongodb_atlas_uri
-   API_KEY=your_weather_api_key
 
 
 ## License
