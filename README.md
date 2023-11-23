@@ -59,7 +59,7 @@ The Weather App is a web application that allows users to get weather informatio
 
 1. **Environment Variables:**
 
-   Create a `.env` file in the root of the project with the following content:
+   Create a `.env` file in the server folder of the project with the following content:
 
    ```dotenv
    PORT=5000
