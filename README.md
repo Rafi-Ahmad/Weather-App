@@ -39,7 +39,7 @@ The Weather App is a web application that allows users to get weather informatio
 
    
 ## Install dependencies:
-1. **Install dependencies on client **
+1. **Install dependencies on client:**
 - cd client
 - npm install
 - Run the application:
@@ -47,7 +47,7 @@ The Weather App is a web application that allows users to get weather informatio
 - npm start
 - The app will be available at http://localhost:3000.
 
-2. **Install dependencies on server **
+2. **Install dependencies on server:**
 - cd server
 - npm install
 - Run the application:
