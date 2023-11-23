@@ -1,6 +1,6 @@
 # Weather App
+![image](https://github.com/Rafi-Ahmad/Weather-App/assets/102521490/51562481-8f84-46b4-ad6f-97e39780eec3)
 
-![Weather App Logo](./path/to/your/logo.png)
 
 ## Overview
 
@@ -36,20 +36,20 @@ The Weather App is a web application that allows users to get weather informatio
    cd weather-app
 
    
-##Install dependencies:
+## Install dependencies:
 
 
--npm install
--Run the application:
+- npm install
+- Run the application:
 
--npm start
--The app will be available at http://localhost:3000.
+- npm start
+- The app will be available at http://localhost:3000.
 
-##Configuration
+## Configuration
 -Update API keys and other configuration settings in the appropriate files.
 
 
-##Usage
+## Usage
 Select Country and City:
 
 Choose a country from the first dropdown.
@@ -66,11 +66,11 @@ User Authentication:
 
 Optionally log in or sign up to access personalized features.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please follow the contributing guidelines.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Acknowledgments
+## Acknowledgments
 Thanks to OpenWeather for providing weather data.
