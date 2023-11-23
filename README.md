@@ -66,8 +66,17 @@ User Authentication:
 
 Optionally log in or sign up to access personalized features.
 
-## Contributing
-Contributions are welcome! Please follow the contributing guidelines.
+## Configuration
+
+1. **Environment Variables:**
+
+   Create a `.env` file in the root of the project with the following content:
+
+   ```dotenv
+   PORT=5000
+   ATLAS_URI=your_mongodb_atlas_uri
+   API_KEY=your_weather_api_key
+
 
 ## License
 This project is licensed under the MIT License.
