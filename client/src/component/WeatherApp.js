@@ -167,7 +167,7 @@ function WeatherApp() {
   return (
     <Container>
         <img src={Logo} alt='logo'/>
-        <Title>Weather App</Title>
+        <Title>ClimaQuirk</Title>
 
         
           <div style={{display:"block"}}>
