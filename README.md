@@ -33,7 +33,7 @@ The Weather App is a web application that allows users to get weather informatio
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Rafi-Ahmad/Weather-App.git
    cd weather-app
 
    
