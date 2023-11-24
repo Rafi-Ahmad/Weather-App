@@ -1,4 +1,4 @@
-# Weather App
+# ClimaQuirk
 ![image](https://github.com/Rafi-Ahmad/Weather-App/assets/102521490/51562481-8f84-46b4-ad6f-97e39780eec3)
 
 
