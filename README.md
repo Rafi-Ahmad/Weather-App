@@ -16,7 +16,6 @@ The Weather App is a web application that allows users to get weather informatio
 
 - **Location History:** Keep track of previously searched locations.
 
-- **User Authentication:** Log in or sign up to personalize your experience and access additional features.
 
 ## Technologies Used
 
