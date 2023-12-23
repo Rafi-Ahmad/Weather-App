@@ -85,9 +85,3 @@ Optionally log in or sign up to access personalized features.
 
 
 
-
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgments
-Thanks to OpenWeather for providing weather data.
